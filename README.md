@@ -1,4 +1,4 @@
-# shape_detection
+# Shape Detection
 이미지에서 원하는 영역을 찾기 위해 DeepLearning 기반의 모델을 사용하지만, 매우 간단하게 이미지 연산 방법을 통해 영역을 찾을 수도 있습니다. 그 첫번째로 **윤곽선의 속성을 이용하여 모양을 검출**하는 방법에 대해 알아 보겠습니다.
 
 <div align="center">
